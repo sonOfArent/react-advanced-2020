@@ -318,3 +318,8 @@ p {
   text-transform: capitalize;
   cursor: pointer;
 }
+
+.listGroup {
+  display: flex;
+  justify-content: space-evenly;
+}
